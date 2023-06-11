@@ -74,6 +74,7 @@
     libnotify
     libsForQt5.polkit-kde-agent
     pamixer
+    playerctl
     slurp
     socat
     swaylock
