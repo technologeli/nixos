@@ -88,10 +88,10 @@
     git
     gcc
     neovim
-    rustup
     tmux
     python312
     nodejs_18
+    nodePackages.pnpm
 
     # CLI
     bat
